@@ -2,7 +2,7 @@
 
 ### 1. Example.1
 Summary/description
-[Code for above description](https://www.google.com)
+[Code for above description](https://github.com/pjintester/testcode.github.io/blob/master/index.md)
 
 ### 2. Example.2
 summary/description
